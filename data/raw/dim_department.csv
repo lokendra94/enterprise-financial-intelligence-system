@@ -1,0 +1,9 @@
+Department_Key,Department_Name,Cost_Type
+1,Sales,Variable
+2,Marketing,Variable
+3,Manufacturing,Variable
+4,Supply Chain,Variable
+5,R&D,Fixed
+6,Customer Support,Fixed
+7,Finance & Admin,Fixed
+8,IT,Fixed
